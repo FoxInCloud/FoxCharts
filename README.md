@@ -91,9 +91,9 @@ Start playing with the ChartsSample_ArrowsInLegend.scx form.
 - all objects of chart react on mousemove showing its contour
 - all objects have their own form to adjust. Just Right Click on them.
 - Right click on chart (not on objects) will call form to adjust common properties
-- For ChartType=3 (single type) one can see arrows that show values o​f the increments
-- Title and subtitle can use chr(13)+chr(10) inside
-- One can store properties in memo field of file ChartsList.
+- For `ChartType=3` (single type) one can see arrows that show values o​f the increments
+- Title and subtitle can use `chr(13)+chr(10)` inside
+- One can store properties in memo field of file `ChartsList`.
 - Shape legend changed
 
 *Info for version 1.43 ALPHA*
